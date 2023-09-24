@@ -16,3 +16,7 @@ results of paper:
 results of implementation:
 
 ![image](https://github.com/RominaZakerian/Automatic-Facial-Expression-Recognition-Using-Features-of-Salient-Facial-Patches/assets/82145034/0d375ba8-4ecf-4227-a37c-3c0bc560dbd2)
+
+If you find this code useful for your research, please star it.
+
+If you have any questions about this code, please do not hesitate to contact me.
